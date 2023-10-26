@@ -1,1 +1,1 @@
-# odin-recipes
+A repository for a project recipes website later to be revised in CSS.# odin-recipes
