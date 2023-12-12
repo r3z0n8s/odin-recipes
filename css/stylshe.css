@@ -1,0 +1,25 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: thistle;
+}
+
+.h1 {
+    color: peru;
+    text-align: center;
+}
+
+.hete {
+    text-align: center;
+    color: slateblue;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.uol {
+    color: purple;
+    font-size: 18px;
+}
+
+.hylico {
+    color: green;
+}
