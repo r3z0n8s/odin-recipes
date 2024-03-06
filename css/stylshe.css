@@ -3,23 +3,24 @@ body {
     background-color: thistle;
 }
 
-.h1 {
+h1 {
     color: peru;
     text-align: center;
+    border: solid 2px ;
 }
 
-.hete {
-    text-align: center;
-    color: slateblue;
-    font-weight: 800;
-    font-size: 24px;
-}
-
-.uol {
+ul {
     color: purple;
     font-size: 18px;
 }
 
-.hylico {
+a {
     color: green;
+}
+
+p {
+    text-align: center;
+    color: slateblue;
+    font-weight: 800;
+    font-size: 24px;
 }
