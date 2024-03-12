@@ -9,19 +9,39 @@ h1 {
     border: solid 20px silver ;
 }
 
+h3 {
+    color: darkmagenta;
+}
+
+div {
+    font-size: 18px;
+    margin: 3px;
+}
+
 ul {
     color: forestgreen;
-    font-size: 18px;
 }
 
 ol {
-    color: purple;
-    font-size: 18px;
+    color: darkorchid;
+}
+
+li {
+    padding: 1px;
 }
 
 a {
     color: forestgreen;
     border: solid 1px darkviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    color: deeppink;
+}
+
+a:visited {
+    color: peru;
 }
 
 p {
